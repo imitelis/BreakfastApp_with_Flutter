@@ -41,6 +41,9 @@ class HomePage extends StatelessWidget {
             height: 40,
           ),
           _popularDietsSection(popularDiets),
+          const SizedBox(
+            height: 40,
+          ),
         ],
       ),
     );
