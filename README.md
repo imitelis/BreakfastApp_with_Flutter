@@ -1,4 +1,4 @@
-# BreakfastApp Flutter
+# breakfastapp_flutter
 
 A new Flutter project.
 
